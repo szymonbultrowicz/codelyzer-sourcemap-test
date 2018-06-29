@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Szymon Bultrowicz",
   "license": "MIT",
+  "scripts": {
+    "test": "tsc"
+  },
   "devDependencies": {
     "@angular/compiler": "^6.0.7",
     "@angular/core": "^6.0.7",
